@@ -28,3 +28,4 @@ git checkout -b dev (creates branch from)
 # Navegate between branches
 git checkout master or git checkout dev
 
+teste3 no github
