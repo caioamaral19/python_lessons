@@ -29,3 +29,5 @@ git checkout -b dev (creates branch from)
 git checkout master or git checkout dev
 
 teste3 no github
+
+adicionando aqui pro bagulho ficar doido
